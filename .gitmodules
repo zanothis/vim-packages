@@ -1,3 +1,9 @@
 [submodule "bundle/snipmate.vim"]
 	path = bundle/snipmate.vim
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "bundle/jshint2.vim"]
+	path = bundle/jshint2.vim
+	url = https://github.com/Shutnik/jshint2.vim.git
