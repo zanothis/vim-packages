@@ -37,3 +37,6 @@
 [submodule "bundle/vim-nodejs-complete"]
 	path = bundle/vim-nodejs-complete
 	url = https://github.com/ahayman/vim-nodejs-complete.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
