@@ -58,3 +58,6 @@
 [submodule "bundle/delimitmate"]
 	path = bundle/delimitmate
 	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/vim-dochub"]
+	path = bundle/vim-dochub
+	url = git://github.com/stephenmckinney/vim-dochub.git
