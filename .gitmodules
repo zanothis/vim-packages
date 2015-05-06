@@ -61,3 +61,6 @@
 [submodule "bundle/vim-dochub"]
 	path = bundle/vim-dochub
 	url = git://github.com/stephenmckinney/vim-dochub.git
+[submodule "bundle/ctrlp.vim"]
+	path = bundle/ctrlp.vim
+	url = git://github.com/kien/ctrlp.vim.git
