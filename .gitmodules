@@ -65,5 +65,5 @@
 	path = bundle/ctrlp.vim
 	url = git://github.com/kien/ctrlp.vim.git
 [submodule "ag.vim"]
-	path = ag.vim
+	path = bundle/ag.vim
 	url = https://github.com/rking/ag.vim.git
